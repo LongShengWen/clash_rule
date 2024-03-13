@@ -1,0 +1,6 @@
+payload:
+  - '+.chat.openai.com'
+  - '+.auth0.openai.com'
+  - '+.cdn.openai.com'
+  - '+.openai.com'
+  - '+.client.crisp.chat'
