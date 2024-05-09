@@ -5,3 +5,4 @@ payload:
   - '+.openai.com'
   - '+.client.crisp.chat'
   - '+.ab.chatgpt.com'
+  - '+.chatgpt.com'
