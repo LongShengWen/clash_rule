@@ -1,0 +1,5 @@
+# NAME: M-Team
+payload:
+  - DOMAIN-SUFFIX,kp.m-team.cc
+  - DOMAIN-SUFFIX,api.m-team.cc
+  - DOMAIN-SUFFIX,api.m-team.io
